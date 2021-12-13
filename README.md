@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonardocasagrande" alt="leonardocasagrande" /></a> </p>
 
-- 🌱 I’m currently learning **React.js, React Native and Node.js**
+- 🌱 I’m currently learning **Flutter, React Native and Node.js**
 
-- 💬 Ask me about **Java, JSF, HTML, CSS, Javascript, UI/UX Design**
+- 💬 Ask me about **Java, JSF, HTML, CSS, Javascript, UI/UX Design, ReactJS, VueJS**
 
 - 📫 How to reach me **leoc.casagrande82@gmail.com**
 
