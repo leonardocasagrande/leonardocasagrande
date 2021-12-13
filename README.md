@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **leoc.casagrande82@gmail.com**
 
+- My porfolio https://leocasagrande.vercel.app/
+
 - My npm packages: https://www.npmjs.com/package/react-mui-clean-boilerplate
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jZy81_BpafknQwBVQPrED2onmekKuL2Z/view?usp=sharing](https://drive.google.com/file/d/1jZy81_BpafknQwBVQPrED2onmekKuL2Z/view?usp=sharing)
